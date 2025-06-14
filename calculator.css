@@ -14,7 +14,7 @@ background-color: rgba(28, 26, 26,0.7);
 }
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background: url(..//calculator/unsplash.jpg) no-repeat;
+    background: url(cal.bg.image.jpg) no-repeat;
     width: 100vh;
     background-size: cover;
 
