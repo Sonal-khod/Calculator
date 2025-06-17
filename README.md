@@ -2,11 +2,12 @@
 
 A sleek, responsive calculator built using **HTML**, **CSS**, and **JavaScript**. Designed with a modern glassmorphism UI, this project helps understand arithmetic operations, event handling, and responsive design fundamentals.
 
-![Calculator Screenshot](./Screenshot-2025-06-14.png) <!-- Replace with your image file path if needed -->
+![calculator](https://github.com/user-attachments/assets/f4d123fe-a92e-4906-8980-fb56af6c347d)
 
 ---
 
 ## 🚀 Features
+
 
 - ✨ Clean and modern UI with glassmorphism effect
 - 🧮 Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division
