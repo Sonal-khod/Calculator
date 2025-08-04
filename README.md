@@ -1,3 +1,4 @@
+#live demo  https://sonal-khod.github.io/Calculator/
 # 🧮 Calculator App
 
 A sleek, responsive calculator built using **HTML**, **CSS**, and **JavaScript**. Designed with a modern glassmorphism UI, this project helps understand arithmetic operations, event handling, and responsive design fundamentals.
